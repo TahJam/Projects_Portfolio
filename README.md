@@ -1,6 +1,7 @@
-Taher Jamali's personal portfolio
+# Taher Jamali's personal portfolio
 
-This is my first attempt at building a website that showcases my skills as a software engineer. 
+This is a website that I created to showcase my skills as a software developer.
+The webpage includes some of my projects that I have worked on and my resume.
 I wanted to create this website to challenge myself and also to show potential employers what
 I can bring to the table. I am using a template from HTML5 and personalizing it to my needs. 
 It is just a first attempt so be forgiving of the crude errors and unintentional mistakes.
